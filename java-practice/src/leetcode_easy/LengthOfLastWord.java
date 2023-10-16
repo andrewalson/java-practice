@@ -1,4 +1,6 @@
-public class lengthOfLastWord {
+package leetcode_easy;
+
+public class LengthOfLastWord {
 
     public int getLengthOfLastWord(String s) {
             

@@ -1,4 +1,6 @@
-public class containsDuplicate {
+package leetcode_easy;
+
+public class ContainsDuplicate {
     
     public boolean ifContainsDuplicate(int[] nums) {
         
