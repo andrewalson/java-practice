@@ -1,4 +1,4 @@
-package leetcode_easy;
+package leetcode.easy;
 
 public class ContainsDuplicate {
     

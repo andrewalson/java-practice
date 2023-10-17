@@ -1,4 +1,4 @@
-package codewars_katas;
+package codewars_katas.yellow;
 
 public class MultiplesOf3Or5 {
 

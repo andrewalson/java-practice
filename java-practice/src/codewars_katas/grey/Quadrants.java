@@ -1,4 +1,4 @@
-package codewars_katas;
+package codewars_katas.grey;
 
 public class Quadrants {
 

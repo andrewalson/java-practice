@@ -1,4 +1,4 @@
-package codewars_katas;
+package codewars_katas.yellow;
 
 public class DigitalRoot {
     public static int digital_root(int n) {
@@ -9,6 +9,7 @@ public class DigitalRoot {
             int sum = 0;
             for (int i = 0; i < splitString.length; i++) {
                 sum = sum + Integer.parseInt(splitString[i]);
+                //System.out.println(splitString[i]);
             }
 
             return digital_root(sum);
