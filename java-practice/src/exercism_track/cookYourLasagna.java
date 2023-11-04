@@ -15,10 +15,10 @@ public class cookYourLasagna {
     public int preparationTimeInMinutes(int numberOfLayers) {
         return (numberOfLayers * 2);
     }
-    // TODO: define the 'preparationTimeInMinutes()' method
+    // Do: define the 'preparationTimeInMinutes()' method
 
     public int totalTimeInMinutes(int numberOfLayers, int actualMinutesInOven) {
         return preparationTimeInMinutes(numberOfLayers) + actualMinutesInOven;
     }
-    // TODO: define the 'totalTimeInMinutes()' method
+    // Do: define the 'totalTimeInMinutes()' method
 }
